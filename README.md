@@ -6,7 +6,7 @@ Welcome to my repository! 👋 Here you'll find all the tasks I've completed dur
 
 ## Certificate
 
-![Certificate](./public/certificate.pdf)
+![Certificate](https://github.com/Ewelina765/AI_tasks/blob/main/public/certificate.pdf)
 
 
 
